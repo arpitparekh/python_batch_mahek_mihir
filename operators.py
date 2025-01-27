@@ -47,7 +47,6 @@ print(f!=g)
 print(f>=g)
 print(f<=g)
 
-
 # logical operators
 # and, or, not
 # always between 2 realtional  operators
@@ -74,4 +73,4 @@ study **= 10
 print(study)
 
 # is
-# is not
+# is not  # object  relation operator

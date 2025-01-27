@@ -42,6 +42,3 @@ maruFunction()
 maruFunction()
 maruFunction()
 maruFunction()
-
-
-
