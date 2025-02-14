@@ -19,3 +19,15 @@ armstrong number
 # 153 = 3
 # 153 = 1^3 + 5^3 + 3^3
 # armstrong number
+
+
+# GCD
+# 12 18
+# 6
+
+# LCM
+# 10 12
+# 5 10 2
+# 6 2 3 4
+# 2
+
