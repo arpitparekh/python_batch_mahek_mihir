@@ -19,5 +19,6 @@ v.assign("BMW","X5",1234)
 v1 = Vehicle()
 v1.assign("Audi","Q7",1234)
 
+v.name = "Alto"
 v.display()
 v1.display()
