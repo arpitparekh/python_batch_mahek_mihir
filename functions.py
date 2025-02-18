@@ -92,3 +92,5 @@ def sub(a,b):
 
 print(add( sub(10,20) , sub(20,2) ))
 
+
+# prime number function
