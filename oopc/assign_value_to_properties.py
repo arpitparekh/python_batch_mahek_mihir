@@ -7,6 +7,7 @@ class Vehicle:
     self.name = n
     self.model = m
     self.no = number
+    
   def display(self):
     print("Name : ",self.name)
     print("Model : ",self.model)
