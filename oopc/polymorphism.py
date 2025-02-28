@@ -26,3 +26,20 @@ class B(A):
 
 b = B()
 b.fun1()
+
+
+
+"""
+variables
+datatypes
+operators
+conditional statements
+loops
+loop inside loop
+functions
+oopc
+class object
+constructor
+inheritance super().__init()
+
+"""
