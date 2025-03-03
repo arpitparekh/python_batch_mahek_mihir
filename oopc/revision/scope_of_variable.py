@@ -21,7 +21,6 @@ def outerfunction():    # closure function
     print("This is inner function")
     print(num)
 
-
   return innerfunction
 
 # when yuo create a function inside a function then it is called as closure function and outter function must return the inner function
