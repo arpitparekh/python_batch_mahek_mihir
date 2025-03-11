@@ -15,7 +15,6 @@ def voting(age):
   else:
     print("You are eligible to vote")
 
-
 try:
   voting(12)
 except:
@@ -29,7 +28,6 @@ print("Baki no code.....")
 # try...except
 # raise
 # finally  # calls everytime when exceptoion comes or not
-
 
 # api calling
 # json
